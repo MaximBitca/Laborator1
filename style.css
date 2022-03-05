@@ -1,0 +1,32 @@
+.parent {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  }
+  .child {
+    display: inline-block;
+    border: 3px solid red;
+    padding: 10px 10px;
+    vertical-align: middle;
+    width: 15%;
+  }
+.description{
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+}
+.university_descprion{
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+}
+.town{
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+}
+.lyceum{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+}
